@@ -8,7 +8,8 @@ Minimize the operational costs of the redistribution process and consider the ap
 
 #Model Architecture
 
-![image](https://github.com/bizsooin/UPDVRP_MC/assets/119101783/4980b0bd-418f-488f-9fb8-a057b4df16ef)
+![image](https://github.com/bizsooin/UPDVRP_MC/assets/119101783/d62e04a4-eb74-4b77-b49c-af60c070e1e6)
+
 
 #Phase 1
 
