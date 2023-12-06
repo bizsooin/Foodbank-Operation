@@ -100,8 +100,8 @@ def load_model(path, epoch=None):
     assert model_class is not None, "Unknown model: {}".format(model_class)
 
     model = model_class(
-        20,
-        20,
+        args['foodbank'],
+        args['num_products'],
         args['embedding_dim'],
         args['hidden_dim'],
         problem,
