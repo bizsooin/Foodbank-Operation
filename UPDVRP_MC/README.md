@@ -21,7 +21,7 @@ Attention-based model for learning to solve the Unpaird Pickup and Delivery Vehi
 
 For training UPDVRP with Foodbank instances with 20 nodes (10 foodbank with 2 types of product) and using rollout as a REINFORCE baseline:
 ```bash
-python run.py --foodbank 10 --num_products 2 --baseline rollout --run_name 'tsp20_rollout'
+python run.py --foodbank 10 --num_products 2 --baseline rollout --run_name 'updvrp_10_2'
 ```
 
 ## Usage
