@@ -11,6 +11,10 @@ Minimize the operational costs of the redistribution process and consider the ap
 
 ![image](https://github.com/bizsooin/UPDVRP_MC/assets/119101783/d62e04a4-eb74-4b77-b49c-af60c070e1e6)
 
+The overall framework of this methodology is as follows. The problem is an Unpaired Pickup and Delivery with Vehicle Routing Problem (UPDVRP), where 'unpaired' means that the pickup and delivery pairs are not predetermined and must be considered during the route searching phase.
+
+The process is conceived in two stages: first, assigning each vehicle to a service unit area it will cover, and second, performing deep reinforcement learning (DRL) during the delivery phase of each area. A hierarchical approach will be used to derive the optimal allocation between vehicles and customers and efficient pickup and delivery routes, to minimize the total cost.
+
 
 ## Phase 1 DRL-Based UPDVRP
 
