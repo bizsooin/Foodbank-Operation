@@ -14,10 +14,12 @@ Minimize the operational costs of the redistribution process and consider the ap
 
 ## Phase 1
 
-![image](https://github.com/bizsooin/UPDVRP_MC/assets/119101783/329bec0e-a4d5-43ae-a7a7-1a6b6d878d31)
+![image](https://github.com/bizsooin/UPDVRP_MC/assets/119101783/004ba76f-ce37-4fe1-91fe-35abb5fd71f4)
+
 
 ## Phase 2
 
-![image](https://github.com/bizsooin/UPDVRP_MC/assets/119101783/7b0366ed-4f9b-448a-b688-8d4573cd4646)
+![image](https://github.com/bizsooin/UPDVRP_MC/assets/119101783/020f0c81-0224-4852-88b5-302556be4a2f)
+
 
 
