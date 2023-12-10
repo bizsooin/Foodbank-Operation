@@ -1,8 +1,8 @@
 #  Data-driven Approach for Optimizing Foodbank Operation
 
-# Research Objective
+# Abstract
 
-The role of food banks is to redistribute donated goods from individuals and corporations to marginalized communities. This study presents mathematical models and algorithms to solve operational and management issues in food banks. The problem, complicated by diverse social demands and the imbalance between supply and demand, is challenging to resolve with existing algorithms. To overcome this, the study proposes a two-stage vehicle routing model (2-stage VRP) utilizing Graph Neural Network-based clustering (GNN-based Clustering) and Attention-based Deep Reinforcement Learning. The model is validated using data from domestic food banks. Ultimately, this research aims to provide efficient and effective operational strategies for food banks and a practical Decision Support System, in collaboration with Gyeonggi Sharing Food Bank, to improve the inefficient operations of domestic food banks.
+The role of food banks is to redistribute donated goods from individuals and corporations to marginalized communities. This study presents mathematical models and algorithms to solve operational and management issues in food banks. The problem, complicated by diverse social demands and the imbalance between supply and demand, is challenging to resolve with existing algorithms. To overcome this, our study proposes a two-stage vehicle routing model (2-stage VRP) utilizing Graph Neural Network-based clustering (GNN-based Clustering) and Attention-based Deep Reinforcement Learning. The model is validated using data from domestic food banks. Ultimately, this research aims to provide efficient and effective operational strategies for food banks and a practical Decision Support System, in collaboration with Gyeonggi Sharing Food Bank, to improve the inefficient operations of domestic food banks.
 
 ![image](https://github.com/bizsooin/UPDVRP_MC/assets/119101783/57c23faa-fd37-468a-91e9-68d8befe73cb)
 
