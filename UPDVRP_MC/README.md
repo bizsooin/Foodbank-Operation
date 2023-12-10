@@ -74,4 +74,4 @@ If the epoch is not specified, by default the last one in the folder will be use
 
 
 ## Acknowledgements
-Thanks to https://github.com/zcaicaros/manager-worker-mtsptwr for getting me started with the code for first implementing the helper function.
+Special Thanks to https://github.com/zcaicaros/manager-worker-mtsptwr for helping me start with the code and insights.
