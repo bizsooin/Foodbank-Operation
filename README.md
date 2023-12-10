@@ -16,13 +16,13 @@ The overall framework of this methodology is as follows. The problem is an Unpai
 The process is conceived in two stages: first, assigning each vehicle to a service unit area it will cover, and second, performing deep reinforcement learning (DRL) during the delivery phase of each area. A hierarchical approach will be used to derive the optimal allocation between vehicles and customers and efficient pickup and delivery routes, to minimize the total cost.
 
 
-## Phase 1 DRL-Based UPDVRP
+## Phase 1 DRL-Based UPDVRP (UPDVRP_MC)
 
 ![image](https://github.com/bizsooin/UPDVRP_MC/assets/119101783/004ba76f-ce37-4fe1-91fe-35abb5fd71f4)
 
 The framework of this model begins by embedding factors like the locations of food banks, pickup and delivery requests, and vehicle capacity into the State. Then, a policy network and attention mechanism are used to determine the next likely destination as a probability distribution. Once a customer is selected, they are excluded (masked) from subsequent processes and no longer chosen in the route planning phase. The route planning ends when all requests are processed or when the agent visits the depot (warehouse). Unprocessed requests are added as additional costs. This hybrid cost is used as a reward for the worker agent and is utilized for subsequent learning. The ultimate goal of this phase is to create a decision-making model that minimizes the total hybrid cost while exploring pickup and delivery routes using deep reinforcement learning.
 
-## Phase 2 GNN based Clustering
+## Phase 2 GNN based Clustering (Upload soon)
 
 ![image](https://github.com/bizsooin/UPDVRP_MC/assets/119101783/020f0c81-0224-4852-88b5-302556be4a2f)
 
