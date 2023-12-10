@@ -2,7 +2,9 @@
 
 
 
-Attention-based model for learning to solve the Unpaird Pickup and Delivery Vehicle Routing Problem (UPDVRP) while considering effective cost and equity cost. Training with REINFORCE with greedy rollout baseline.
+Attention-based model for learning to solve the Unpaird Pickup and Delivery Vehicle Routing Problem with multiple commodities (UPDVRP-MCC) while considering effective cost and equity cost. 
+
+Training with REINFORCE with greedy rollout baseline.
 
 ![image](https://github.com/bizsooin/UPDVRP_MC/assets/119101783/170a42f0-d52c-40c3-99d4-73da7e0c4e99)
 
