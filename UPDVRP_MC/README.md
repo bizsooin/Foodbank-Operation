@@ -6,7 +6,7 @@ Attention-based model for learning to solve the Unpaird Pickup and Delivery Vehi
 
 ![image](https://github.com/bizsooin/UPDVRP_MC/assets/119101783/170a42f0-d52c-40c3-99d4-73da7e0c4e99)
 
-
+Our graph addresses the distribution challenges of two commodities across ten food banks using a pre-trained Deep Reinforcement Learning (DRL) approach.
 
 ## Dependencies
 
