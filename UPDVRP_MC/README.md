@@ -1,7 +1,6 @@
 #  DRL-based for Unpaired Pickup & Delivery VRP (UPDVRP)
 
 
-
 Attention-based model for learning to solve the Unpaird Pickup and Delivery Vehicle Routing Problem with multiple commodities (UPDVRP-MCC) while considering effective cost and equity cost. 
 
 Training with REINFORCE with greedy rollout baseline.
